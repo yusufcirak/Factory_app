@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Arduino / ESP32 kartlarında yaygın USB-seri köprü yongaları.
+  Buradaki her giriş, o cihaz takıldığında uygulamanın açılmasını ve
+  kalıcı izin almasını sağlar.
+-->
+<resources>
+    <!-- FTDI FT232R / FT231X — Arduino Nano (eski), Duemilanove -->
+    <usb-device vendor-id="1027" product-id="24577" />
+    <usb-device vendor-id="1027" product-id="24597" />
+
+    <!-- WCH CH340 / CH341 — klon Nano ve Uno, birçok ESP32 kartı -->
+    <usb-device vendor-id="6790" product-id="29987" />
+    <!-- WCH CH9102F — yeni ESP32-S3 / C3 devkit'leri -->
+    <usb-device vendor-id="7855" product-id="4608" />
+
+    <!-- Silicon Labs CP2102 / CP2104 — ESP32 DevKitC, NodeMCU -->
+    <usb-device vendor-id="4292" product-id="60000" />
+    <usb-device vendor-id="4292" product-id="60001" />
+    <usb-device vendor-id="4292" product-id="60002" />
+
+    <!-- Prolific PL2303 -->
+    <usb-device vendor-id="1659" product-id="8963" />
+
+    <!-- Arduino LLC / Arduino SA — Uno, Mega, Leonardo, Micro -->
+    <usb-device vendor-id="9025" />
+    <usb-device vendor-id="10755" />
+
+    <!-- Espressif yerleşik USB-JTAG/Serial — ESP32-S2/S3/C3 native USB -->
+    <usb-device vendor-id="12346" />
+</resources>

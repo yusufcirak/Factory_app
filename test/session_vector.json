@@ -1,0 +1,11 @@
+{
+  "modulePub": "BKauUnsrGQlq8gfVvX3CnfDEThe4w+iJP10G3xk48I4/ReJZQrqVUWjjDS6D+bS0hbHXfcJb4yOPBaYGs4P7lCw=",
+  "phoneEpk": "BDi56s7eY702EyUMPffSqZ2j/GQilF9XzDlorKkSd/+GAIV2YhuwHGL6PgfumWdqQl+Hibzm83QivCyjyiIUTow=",
+  "moduleEpk": "BKKGq2l2XaiNFkwr88rJ3iVDvykaY/HPJ7MByIEQDSCpQs2VIpHG7WiHjKxu11qe0tmMyRQRXfb0sVjVzV35GU8=",
+  "n": "1b9693a59e5d2720d3d8c86d8b89bfb6",
+  "sig": "MEUCIQC6h6/BjfVWAAjK1hxHMm2NjUNSWAEwH/meUZQG9pGGOwIgdc9HUTljPzF6BlkirjobuGDu02DAoNbXR3yrCX1x5wM=",
+  "phonePrivHex": "5d52bf608a55a8673b103368c177138576213bf233246b2161e7d16c90b48ccf",
+  "keyHex": "011a542b7d04b7cfe21230ab3dc19885d6ec43e7a5c5a8990365c754ad0b69f4",
+  "respB64": "2q8NLyE8hWjIq0WnFx9o4GxS/z/e7iGF7ZfIzzqB06PcxVNrodqY3w+clf2VFY41wmqFAmg/yts0hSk7W0OreR6rqFVp52YENAtJMnzVdx1C9Fsb5kFZixMwdSSdSI6T0bg=",
+  "plain": "{\"op\": \"status\", \"wifi\": \"connected\", \"ssid\": \"Klinik\", \"cloud\": true}"
+}
